@@ -1,6 +1,6 @@
 # 👩‍💻 Lorena Ledezma López
 
-🚀 **Associate Software Engineer | Full Stack Developer | Data & Search Specialist**
+🚀 **Software Engineer | Full Stack Developer | Data & Search Specialist**
 
 Soy Ingeniera en Desarrollo y Gestión de Software con +4 años de experiencia construyendo soluciones tecnológicas escalables. Me especializo en desarrollo full stack, procesos ETL, análisis de datos y motores de búsqueda.
 
